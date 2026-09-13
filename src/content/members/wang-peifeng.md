@@ -15,7 +15,7 @@ socials:
   orcid: 'https://orcid.org/0000-0003-2557-5057'
   researchgate: 'https://www.researchgate.net/profile/Peifeng-Wang-2'
   github: 'https://github.com/pfwang97'
-  # website:
+  website: 'pfwang97.github.io'
   # linkedin:
   # x:
   # bluesky:
